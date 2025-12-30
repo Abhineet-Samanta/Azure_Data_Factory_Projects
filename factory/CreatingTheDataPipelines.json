@@ -1,0 +1,9 @@
+{
+	"name": "CreatingTheDataPipelines",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eeb20716-cd22-443a-b0ad-be2e6d4c4571",
+		"tenantId": "27282fdd-4c0b-4dfb-ba91-228cd83fdf71"
+	}
+}
