@@ -1,0 +1,48 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "CreatingTheDataPipelines"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"SqlServer1_password": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "cloud-server-premises.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "Pipeline_project"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_server": {
+			"value": "cloud-server-premises.database.windows.net"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_database": {
+			"value": "Pipeline_project"
+		},
+		"AzureSqlDatabase3_properties_typeProperties_server": {
+			"value": "cloud-server-premises.database.windows.net"
+		},
+		"AzureSqlDatabase3_properties_typeProperties_database": {
+			"value": "Pipeline_project"
+		},
+		"AzureSqlDatabase4_properties_typeProperties_server": {
+			"value": "cloud-server-premises.database.windows.net"
+		},
+		"AzureSqlDatabase4_properties_typeProperties_database": {
+			"value": "Pipeline_project"
+		},
+		"SqlServer1_properties_typeProperties_server": {
+			"value": "ABHINEET-SAMANT\\SQLEXPRESS"
+		},
+		"SqlServer1_properties_typeProperties_database": {
+			"value": "Abhineet"
+		},
+		"SqlServer1_properties_typeProperties_userName": {
+			"value": "Abhineet"
+		}
+	}
+}
