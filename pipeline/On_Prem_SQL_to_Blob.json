@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "On_Prem_SQL_to_Blob",
 	"properties": {
 		"activities": [
 			{
