@@ -8,7 +8,13 @@
 		"AzureBlobStorage1_connectionString": {
 			"value": ""
 		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
 		"SqlServer1_password": {
+			"value": ""
+		},
+		"SqlServer2_password": {
 			"value": ""
 		},
 		"AzureSqlDatabase1_properties_typeProperties_server": {
@@ -42,6 +48,15 @@
 			"value": "Abhineet"
 		},
 		"SqlServer1_properties_typeProperties_userName": {
+			"value": "Abhineet"
+		},
+		"SqlServer2_properties_typeProperties_server": {
+			"value": "ABHINEET-SAMANT\\SQLEXPRESS"
+		},
+		"SqlServer2_properties_typeProperties_database": {
+			"value": "Abhineet"
+		},
+		"SqlServer2_properties_typeProperties_userName": {
 			"value": "Abhineet"
 		}
 	}
